@@ -7,8 +7,8 @@
 <div>
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="VK Badge">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube Badge">
+  <a href="https://vk.com/mind_explorer"><img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="VK Badge"></a>
+  <a href="https://www.youtube.com/channel/UCqZ8mFMQw0bLgP_-4PwV3-w"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube Badge"></a>
 </div>
 
 <div id="viewprof" align="center">
