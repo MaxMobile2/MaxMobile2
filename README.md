@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="">
+</div>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TrgAAwTiTfHhhH40jJ/giphy.gif" width="100">
 <div>
@@ -51,3 +55,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxMobile2&theme=jolly">
 </div>
   
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxMobile2&theme=jolly" alt="">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMobile2&layout=compact&theme=jolly" alt="">
+</div>
